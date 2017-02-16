@@ -5,7 +5,7 @@
  *
  * Loads a `.env` file in the given directory and sets the environment vars.
  */
-class Dotenv
+class SugengDotenv
 {
     /**
      * If true, then environment variables will not be overwritten.
